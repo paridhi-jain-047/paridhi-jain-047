@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Paridhi Jain
 I'm passionate about technology and love to code! Here's a little about me:
-- 🌱 I’m currently learning to integrate Machine learning with Full-stack developement.
+- 🌱 I’m currently learning to draw data-driven insights for large datasets.
 - 💼 I work as a Product Engineer at a tech consulting firm in India.
 - 💬 Talk to me about Badminton, Data Analytics, Machine Learning, and Start-ups.
 - 🎓 Graduated in Electronics & Telecomm. from V.V.P Engineering College, 2022.
